@@ -86,16 +86,16 @@ The evaluation script loads the trained model and performs deterministic action 
 autonomous-lane-keeping-drl/
 │
 ├── README.md
-│
-├── ── ── ── ── ── ── ──
-│   ├── carla_env_core.py
+│ 
+├── ├── carla_env_core.py
 │   ├── carla_env_wrapper.py
 │   ├── train_dqn.py
 │   ├── evaluate_dqn.py
 │   ├── lane_keeping_dqn_model.zip
 │   ├── checking_lidar.py
 │   ├── clean_vehicles.py
-│   └── test_gym_env.py
+│   ├── test_gym_env.py
+│   └── test_gym_movement.py
 │
 ```
 
