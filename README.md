@@ -74,7 +74,7 @@ The training pipeline uses the custom Gymnasium environment and saves trained mo
 
 A trained DQN model checkpoint is included in this repository:
 
-`carlamodeltraining/lane_keeping_dqn_model.zip`
+`lane_keeping_dqn_model.zip`
 
 The checkpoint metadata records 900,000 training timesteps.
 
@@ -87,7 +87,7 @@ autonomous-lane-keeping-drl/
 │
 ├── README.md
 │
-├── carla-model-training/
+├── ── ── ── ── ── ── ──
 │   ├── carla_env_core.py
 │   ├── carla_env_wrapper.py
 │   ├── train_dqn.py
